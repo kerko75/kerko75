@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kerko75
+- 👀 I’m interested in Web3.0, smart contract development
+- 🌱 I’m currently learning Solidity, Web3.js, Truffle, React
+- 💞️ I’m looking to collaborate on Web3.0
+- 📫 My linked in profile is https://www.linkedin.com/in/kerem-kos-b8823a1/
